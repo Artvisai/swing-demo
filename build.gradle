@@ -30,5 +30,5 @@ dependencies {
 }
 
 launch4j {
-  mainClassName = 'com.example.myapp.Start'
+  mainClassName = 'SwingDemo'
 }
